@@ -19,6 +19,8 @@ An AI-powered automation workflow built using n8n for smart email generation, he
 - JSON-based workflow
 - Email services (SMTP/Gmail)
 
----
+## 📸 Workflow Preview
+
+![Workflow](image.png)
 
 ## 📂 Project Structure
